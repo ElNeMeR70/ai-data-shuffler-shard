@@ -1,0 +1,4 @@
+[project]
+name = "ai-data-shuffler-shard"
+version = "0.1.0"
+description = "Shards massive datasets into deterministic numbered training chunks for distributed data-parallel training."
